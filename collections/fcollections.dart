@@ -1,4 +1,4 @@
-class FCollection {
+class FCollections {
   /// Create a deme list with specific items
   List createList({items = 0}) {
     var list = [];
